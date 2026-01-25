@@ -10,26 +10,26 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      The plot for good visualisation is labelled as "Good_visualisation.png" in the assignment folder.
+      Source: https://www.vox.com/2018/3/7/17094610/netflix-70-percent-tv-viewing-statistics
+This is a Sankey plot which shows the viewership patterns of Netflix users through time and with respect to device types. Three reasons for why the above is an effective visualization is listed below:
+1.	Appropriate chart selection: Sankey plots are a good visualization tool to depict the transitions among different categories across various stages.
+2.	Proportional encoding: The quantitative information of this graph is preserved through the visual cues displayed as width of flows and bars synchronize with the percentage changes. 
+3.	Reduction of cognitive load: The device category color has been maintained throughout the graph which aids in visual perception and helps reduce the cognitive load of the graph.
 
+The plot for good visualisation is labelled as "Bad_visualisation.png" in the assignment folder.
 
+Source: Bloomberg.com https://share.google/hE8PILeIVZmrL86OP
+The bar graph shown above by Bloomberg publication depicts the percentage increase in pollution between 1998 and 2016 for cities in India and China.
+The three reasons for it being a bad visualization are:
+1.	Task visual alignment: The first issue with the graph is that the y-axis labels are placed quite far from the main graph. The x-axis starts at -10% but most values are positive except for Chengdu whose difference is barely noticeable.
+2.	Data sufficiency: The graph shows the percentage change but gives no information on the baseline population level which can lead to wrong interpretations of labelling cities with low baseline pollution level and high percentage change as being more polluted.
+3.	Valid Comparison: The grouping of cities can be done more effectively, for example by having separate panels for Indian and Chinese cities.
 
+Here are few suggestions to improve the graph:
+1.	It would be better to include baseline pollution levels along with percentage change to have better interpretations of the data.
+2.	Another suggestion is to start the x-axis from 0%
 
-
-
-
-      ```
-    - How could this data visualization have been improved?  
-      ```
-      Your answer...
-
-
-
-
-
-
-      
-      ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
