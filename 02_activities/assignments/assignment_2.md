@@ -17,6 +17,10 @@ This is a Sankey plot which shows the viewership patterns of Netflix users throu
 2.	Proportional encoding: The quantitative information of this graph is preserved through the visual cues displayed as width of flows and bars synchronize with the percentage changes. 
 3.	Reduction of cognitive load: The device category color has been maintained throughout the graph which aids in visual perception and helps reduce the cognitive load of the graph.
 
+Some suggestions to improve the good visualisation are:
+1. Reduction of cognitive overload: The figure posses varied overlapping flows between different categories while this serves the purpose of displaying more information it also increases the cognitive overload for the audience. It would be better to aggregate minor flows into a different category or remove them to help ease the interpretability of the diagram.
+2.Increase accessibility: The colour scheme utilised in this figure is not color blind comaptible. It would be better to use a color scale that can help color blind audience and help increase accessibility.
+
 The plot for good visualisation is labelled as "Bad_visualisation.png" in the assignment folder.
 
 Source: Bloomberg.com https://share.google/hE8PILeIVZmrL86OP
